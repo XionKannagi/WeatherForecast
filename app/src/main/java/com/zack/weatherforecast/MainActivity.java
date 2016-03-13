@@ -36,6 +36,7 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
     TextView mDateTextView;
     TextView mLabelTextView;
     TextView mTempTextView;
+    TextView mHumidityTextView;
     ImageView mImageView;
 
     private static final int LOCATION_UPDATE_MIN_TIME = 0;
@@ -63,6 +64,7 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
         mDateTextView = (TextView) findViewById(R.id.textViewDate);
         mLabelTextView = (TextView) findViewById(R.id.textViewLabel);
         mTempTextView = (TextView) findViewById(R.id.textViewTemp);
+        mHumidityTextView =(TextView) findViewById(R.id.textViewHumidity);
         mImageView = (ImageView) findViewById(R.id.imageView);
 
         mLocationManager = (LocationManager) getSystemService(LOCATION_SERVICE);
@@ -154,9 +156,9 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
             String icon = weatherInfoJson.getString("icon");
             Log.d("icon",icon);
             Picasso.with(MainActivity.this).load("http://openweathermap.org/img/w/"+icon+".png").into(mImageView);
-            mLabelTextView.setText("Weather:"+label);
+            mLabelTextView.setText("天気："+label);
 
-            JSONObject temperatureJson = todayWeatherJson.getJSONObject("temperature");
+            /*JSONObject temperatureJson = todayWeatherJson.getJSONObject("temperature");
             JSONObject minJson = temperatureJson.get("min") != null ? temperatureJson.getJSONObject("min") : null;
             String min = "";
             if (minJson != null) {
@@ -167,9 +169,38 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
             String max = "";
             if (maxJson != null) {
                 max = maxJson.getString("celsius");
-            }
+            }*/
+
+            //気温と湿度オブジェクトを取得
+            String temperature = todayWeatherJson.getString("main");
+            JSONObject temperatureObject = new JSONObject(temperature);
+            //最高気温を取得
+            String maxTemp = temperatureObject.getString("temp_max");
+            Log.d("最高気温", maxTemp);
+            double parseMaxTemp = Double.parseDouble(maxTemp) - 273.15;
+            int parseMaxTempInt = (int)parseMaxTemp;
+            String max = String.valueOf(parseMaxTempInt);
+
+
+            //最低気温を取得
+            String minTemp = temperatureObject.getString("temp_min");
+            Log.d("最低気温", minTemp);
+            double parseMinTemp = Double.parseDouble(minTemp) - 273.15;
+            int parseMinTempInt = (int)parseMinTemp;
+            String min = String.valueOf(parseMinTempInt);
+
             Log.d("Min ~ Max", min + "~" + max);
             mTempTextView.setText("最低気温" + min + "℃~最高気温" + max + "℃");
+
+            //現在の気温
+
+
+            //湿度を取得
+            String humidity = temperatureObject.getString("humidity");
+            Log.d("湿度",humidity);
+            mHumidityTextView.setText("湿度："+humidity+" ％");
+
+
 
             //天気の画像をurl先から拾う
             /*JSONObject imageJson = todayWeatherJson.getJSONObject("image");

@@ -8,6 +8,10 @@
         "source": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xhdpi/abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
+        "merged": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_accessibility_white_24dp.png",
+        "source": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-xhdpi/ic_accessibility_white_24dp.png"
+    },
+    {
         "merged": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
         "source": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xhdpi/abc_textfield_search_default_mtrl_alpha.9.png"
     },
@@ -126,6 +130,10 @@
     {
         "merged": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_search_api_mtrl_alpha.png",
         "source": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xhdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_cloud_white_24dp.png",
+        "source": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/src/main/res/drawable-xhdpi/ic_cloud_white_24dp.png"
     },
     {
         "merged": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",

@@ -1,6 +1,8 @@
 package com.zack.weatherforecast;
 
 import android.Manifest;
+import android.content.Intent;
+import android.content.SharedPreferences;
 import android.content.pm.PackageManager;
 import android.location.Location;
 import android.location.LocationListener;
@@ -13,6 +15,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -138,7 +141,7 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
             JSONObject locationObject = new JSONObject(city);
             name = locationObject.getString("name");
             country = locationObject.getString("country");
-            mAreaTextView.setText("City:" + name + "  Country:" + country);
+            mAreaTextView.setText("Location:" + name + "  in: " + country);
             //今日の情報
             /*JSONArray forecastsArray = jsonObject.getJSONArray("forecasts");
             JSONObject todayWeatherJson = forecastsArray.getJSONObject(0);*/
@@ -225,13 +228,18 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
             double parseWindSpeed = Double.parseDouble(windSpeed);
             mWindSpeedTextView.setText("風速：" + windSpeed + "m/s");
 
-            //体感気温を推定（グレゴルチュク）
-            double NET = 37 - ((37 - parseNowTemp) / (0.68 - (0.0014 * parseHumidity) + (1 / (1.76 + 1.4 * Math.pow(parseWindSpeed, 0.75))))) - 0.29 * parseNowTemp * (1 - (parseHumidity / 100));
-            int NETInt = (int) NET;
-            String NETStr = String.valueOf(NETInt);
+            String NETStr = String.valueOf(net(parseNowTemp, parseHumidity, parseWindSpeed));
             Log.d("体感気温：", NETStr);
 
             mNowTempTextView.setText("現在の気温：" + nowTempStr + "℃" + "(体感気温：" + NETStr + "℃)");
+
+            SharedPreferences data = getSharedPreferences("saveData",MODE_PRIVATE);
+            SharedPreferences.Editor editor = data.edit();
+            editor.putString("weather",label);
+            editor.putInt("minNET",net(parseMinTemp,parseHumidity,parseWindSpeed));
+            editor.putInt("minTmp",parseMinTempInt);
+            editor.putInt("maxTmp",parseMaxTempInt);
+            editor.apply();
 
 
             //天気の画像をurl先から拾う
@@ -246,6 +254,19 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
 
     }
 
+    public int net(double temp,double humidity,double windSpeed){
+        //体感気温を推定（グレゴルチュク）
+        double NET = 37 - ((37 - temp) / (0.68 - (0.0014 * humidity) + (1 / (1.76 + 1.4 * Math.pow(windSpeed, 0.75))))) - 0.29 * temp * (1 - (humidity / 100));
+        int NETInt = (int) NET;
+        return NETInt;
+    }
+
+    //服装recommendページへ
+    public void recommendPage(View view){
+        Intent intent = new Intent(this,RecommendActivity.class);
+        startActivity(intent);
+
+    }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {

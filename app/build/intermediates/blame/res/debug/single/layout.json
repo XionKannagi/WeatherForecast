@@ -124,6 +124,10 @@
         "source": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_big_media_narrow.xml"
     },
     {
+        "merged": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/layout/activity_recommend.xml",
+        "source": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/src/main/res/layout/activity_recommend.xml"
+    },
+    {
         "merged": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
         "source": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_alert_dialog_material.xml"
     },

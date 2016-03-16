@@ -28,13 +28,17 @@
             android:name="com.zack.weatherforecast.MainActivity"
             android:label="@string/app_name"
             android:screenOrientation="portrait"
-            android:theme="@style/AppTheme.NoActionBar" >
+            android:theme="@style/AppTheme" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.zack.weatherforecast.RecommendActivity"
+            android:label="@string/title_activity_recommend"
+            android:theme="@style/AppTheme" />
     </application>
 
 </manifest>

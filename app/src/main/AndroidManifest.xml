@@ -32,7 +32,8 @@
         <activity
             android:name=".RecommendActivity"
             android:label="@string/title_activity_recommend"
-            android:theme="@style/AppTheme"></activity>
+            android:theme="@style/AppTheme"
+            android:screenOrientation="portrait"></activity>
     </application>
 
 </manifest>

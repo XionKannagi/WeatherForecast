@@ -1,6 +1,8 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/togane/AndroidStudioProjects/WeatherForecast/app/src/main/AndroidManifest.xml:2:1-38:12
+ADDED from /Users/togane/AndroidStudioProjects/WeatherForecast/app/src/main/AndroidManifest.xml:2:1-39:12
+	xmlns:android
+		ADDED from /Users/togane/AndroidStudioProjects/WeatherForecast/app/src/main/AndroidManifest.xml:2:11-69
 	package
 		ADDED from /Users/togane/AndroidStudioProjects/WeatherForecast/app/src/main/AndroidManifest.xml:3:5-39
 		INJECTED from /Users/togane/AndroidStudioProjects/WeatherForecast/app/src/main/AndroidManifest.xml
@@ -8,8 +10,6 @@ ADDED from /Users/togane/AndroidStudioProjects/WeatherForecast/app/src/main/Andr
 	android:versionName
 		INJECTED from /Users/togane/AndroidStudioProjects/WeatherForecast/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/togane/AndroidStudioProjects/WeatherForecast/app/src/main/AndroidManifest.xml
-	xmlns:android
-		ADDED from /Users/togane/AndroidStudioProjects/WeatherForecast/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
 		INJECTED from /Users/togane/AndroidStudioProjects/WeatherForecast/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/togane/AndroidStudioProjects/WeatherForecast/app/src/main/AndroidManifest.xml
@@ -34,7 +34,7 @@ ADDED from /Users/togane/AndroidStudioProjects/WeatherForecast/app/src/main/Andr
 	android:name
 		ADDED from /Users/togane/AndroidStudioProjects/WeatherForecast/app/src/main/AndroidManifest.xml:13:22-76
 application
-ADDED from /Users/togane/AndroidStudioProjects/WeatherForecast/app/src/main/AndroidManifest.xml:15:5-36:19
+ADDED from /Users/togane/AndroidStudioProjects/WeatherForecast/app/src/main/AndroidManifest.xml:15:5-37:19
 MERGED from [com.android.support:appcompat-v7:23.1.1] /Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.1.1] /Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:23.1.1] /Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/AndroidManifest.xml:22:5-20
@@ -42,10 +42,10 @@ MERGED from [com.android.support:appcompat-v7:23.1.1] /Users/togane/AndroidStudi
 MERGED from [com.android.support:support-v4:23.1.1] /Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.1.1] /Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.1.1] /Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
-	android:label
-		ADDED from /Users/togane/AndroidStudioProjects/WeatherForecast/app/src/main/AndroidManifest.xml:18:9-41
 	android:supportsRtl
 		ADDED from /Users/togane/AndroidStudioProjects/WeatherForecast/app/src/main/AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from /Users/togane/AndroidStudioProjects/WeatherForecast/app/src/main/AndroidManifest.xml:18:9-41
 	android:allowBackup
 		ADDED from /Users/togane/AndroidStudioProjects/WeatherForecast/app/src/main/AndroidManifest.xml:16:9-35
 	android:icon
@@ -73,7 +73,9 @@ ADDED from /Users/togane/AndroidStudioProjects/WeatherForecast/app/src/main/Andr
 	android:name
 		ADDED from /Users/togane/AndroidStudioProjects/WeatherForecast/app/src/main/AndroidManifest.xml:29:27-74
 activity#com.zack.weatherforecast.RecommendActivity
-ADDED from /Users/togane/AndroidStudioProjects/WeatherForecast/app/src/main/AndroidManifest.xml:32:9-35:56
+ADDED from /Users/togane/AndroidStudioProjects/WeatherForecast/app/src/main/AndroidManifest.xml:32:9-36:61
+	android:screenOrientation
+		ADDED from /Users/togane/AndroidStudioProjects/WeatherForecast/app/src/main/AndroidManifest.xml:36:13-49
 	android:label
 		ADDED from /Users/togane/AndroidStudioProjects/WeatherForecast/app/src/main/AndroidManifest.xml:34:13-61
 	android:theme

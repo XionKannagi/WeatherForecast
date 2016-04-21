@@ -16,7 +16,9 @@ import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+import android.widget.FrameLayout;
 import android.widget.ImageView;
+import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -43,6 +45,7 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
     TextView mHumidityTextView;
     TextView mWindSpeedTextView;
     ImageView mImageView;
+    FrameLayout background;
 
     private static final int LOCATION_UPDATE_MIN_TIME = 0;
     private static final int LOCATION_UPDATE_MIN_DISTANCE = 1;
@@ -55,6 +58,18 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
 
     static String name;
     static String country;
+
+
+    private int[] skyStatus = {
+            R.drawable.clear_sky,
+            R.drawable.rainny,
+            R.drawable.cloudy,
+            R.drawable.snow
+    };
+
+
+
+    String mainWeather;
 
 
     @Override
@@ -73,6 +88,7 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
         mHumidityTextView = (TextView) findViewById(R.id.textViewHumidity);
         mWindSpeedTextView = (TextView) findViewById(R.id.textViewWind);
         mImageView = (ImageView) findViewById(R.id.imageView);
+        background = (FrameLayout) findViewById(R.id.main_activity_back);
 
         mLocationManager = (LocationManager) getSystemService(LOCATION_SERVICE);
         location = mLocationManager.getLastKnownLocation(LocationManager.GPS_PROVIDER);
@@ -165,10 +181,22 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
             JSONArray weatherArray = todayWeatherJson.getJSONArray("weather");
             JSONObject weatherInfoJson = weatherArray.getJSONObject(0);
             String label = weatherInfoJson.getString("description");
+            mainWeather = weatherInfoJson.getString("main");
             String icon = weatherInfoJson.getString("icon");
             Log.d("icon", icon);
+            Log.d("mainWeather",mainWeather);
             Picasso.with(MainActivity.this).load("http://openweathermap.org/img/w/" + icon + ".png").into(mImageView);
             mLabelTextView.setText("天気：" + label);
+
+            if (mainWeather.equals("Clear")){
+                background.setBackgroundResource(skyStatus[0]);
+            } else if(mainWeather.equals("Rain")){
+                background.setBackgroundResource(skyStatus[1]);
+            }else if (mainWeather.equals("Clouds")){
+                background.setBackgroundResource(skyStatus[2]);
+            } else if(mainWeather.equals("Snow")){
+                background.setBackgroundResource(skyStatus[3]);
+            }
 
             /*JSONObject temperatureJson = todayWeatherJson.getJSONObject("temperature");
             JSONObject minJson = temperatureJson.get("min") != null ? temperatureJson.getJSONObject("min") : null;
@@ -233,12 +261,12 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
 
             mNowTempTextView.setText("現在の気温：" + nowTempStr + "℃" + "(体感気温：" + NETStr + "℃)");
 
-            SharedPreferences data = getSharedPreferences("saveData",MODE_PRIVATE);
+            SharedPreferences data = getSharedPreferences("saveData", MODE_PRIVATE);
             SharedPreferences.Editor editor = data.edit();
-            editor.putString("weather",label);
-            editor.putInt("minNET",net(parseMinTemp,parseHumidity,parseWindSpeed));
-            editor.putInt("minTmp",parseMinTempInt);
-            editor.putInt("maxTmp",parseMaxTempInt);
+            editor.putString("weather", label);
+            editor.putInt("minNET", net(parseMinTemp, parseHumidity, parseWindSpeed));
+            editor.putInt("minTmp", parseMinTempInt);
+            editor.putInt("maxTmp", parseMaxTempInt);
             editor.apply();
 
 
@@ -254,19 +282,13 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
 
     }
 
-    public int net(double temp,double humidity,double windSpeed){
+    public int net(double temp, double humidity, double windSpeed) {
         //体感気温を推定（グレゴルチュク）
         double NET = 37 - ((37 - temp) / (0.68 - (0.0014 * humidity) + (1 / (1.76 + 1.4 * Math.pow(windSpeed, 0.75))))) - 0.29 * temp * (1 - (humidity / 100));
         int NETInt = (int) NET;
         return NETInt;
     }
 
-    //服装recommendページへ
-    public void recommendPage(View view){
-        Intent intent = new Intent(this,RecommendActivity.class);
-        startActivity(intent);
-
-    }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
@@ -282,8 +304,11 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
         // as you specify a parent activity in AndroidManifest.xml.
         int id = item.getItemId();
 
+        //服装recommendページへ
         //noinspection SimplifiableIfStatement
-        if (id == R.id.action_settings) {
+        if (id == R.id.action_recommend) {
+            Intent intent = new Intent(this, RecommendActivity.class);
+            startActivity(intent);
             return true;
         }
 

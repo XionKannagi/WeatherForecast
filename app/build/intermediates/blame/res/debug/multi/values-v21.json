@@ -11,14 +11,7 @@
                     "endOffset": 119
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 223,
-                        "endColumn": 68,
-                        "endOffset": 287
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
@@ -26,9 +19,9 @@
                     "startLine": 3,
                     "startColumn": 4,
                     "startOffset": 124,
-                    "endLine": 8,
+                    "endLine": 11,
                     "endColumn": 12,
-                    "endOffset": 420
+                    "endOffset": 447
                 },
                 "from": {
                     "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/src/main/res/values-v21/styles.xml",
@@ -36,66 +29,9 @@
                         "startLine": 2,
                         "startColumn": 4,
                         "startOffset": 18,
-                        "endLine": 7,
+                        "endLine": 10,
                         "endColumn": 12,
-                        "endOffset": 314
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 425,
-                    "endColumn": 90,
-                    "endOffset": 511
-                },
-                "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 239,
-                        "endColumn": 90,
-                        "endOffset": 325
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 516,
-                    "endColumn": 102,
-                    "endOffset": 614
-                },
-                "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 330,
-                        "endColumn": 102,
-                        "endOffset": 428
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 619,
-                    "endColumn": 102,
-                    "endOffset": 717
-                },
-                "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 433,
-                        "endColumn": 102,
-                        "endOffset": 531
+                        "endOffset": 341
                     }
                 }
             },
@@ -103,1638 +39,1060 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 722,
-                    "endColumn": 104,
-                    "endOffset": 822
+                    "startOffset": 452,
+                    "endColumn": 90,
+                    "endOffset": 538
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 536,
-                        "endColumn": 104,
-                        "endOffset": 636
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 827,
-                    "endColumn": 106,
-                    "endOffset": 929
+                    "startOffset": 543,
+                    "endColumn": 102,
+                    "endOffset": 641
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 641,
-                        "endColumn": 106,
-                        "endOffset": 743
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 934,
-                    "endColumn": 108,
-                    "endOffset": 1038
+                    "startOffset": 646,
+                    "endColumn": 102,
+                    "endOffset": 744
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 748,
-                        "endColumn": 108,
-                        "endOffset": 852
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1043,
-                    "endColumn": 108,
-                    "endOffset": 1147
+                    "startOffset": 749,
+                    "endColumn": 104,
+                    "endOffset": 849
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 857,
-                        "endColumn": 108,
-                        "endOffset": 961
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1152,
-                    "endColumn": 108,
-                    "endOffset": 1256
+                    "startOffset": 854,
+                    "endColumn": 106,
+                    "endOffset": 956
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 966,
-                        "endColumn": 108,
-                        "endOffset": 1070
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1261,
+                    "startOffset": 961,
                     "endColumn": 108,
-                    "endOffset": 1365
+                    "endOffset": 1065
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1075,
-                        "endColumn": 108,
-                        "endOffset": 1179
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1370,
+                    "startOffset": 1070,
                     "endColumn": 108,
-                    "endOffset": 1474
+                    "endOffset": 1174
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1184,
-                        "endColumn": 108,
-                        "endOffset": 1288
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1479,
-                    "endColumn": 106,
-                    "endOffset": 1581
+                    "startOffset": 1179,
+                    "endColumn": 108,
+                    "endOffset": 1283
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1293,
-                        "endColumn": 106,
-                        "endOffset": 1395
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1586,
-                    "endColumn": 102,
-                    "endOffset": 1684
+                    "startOffset": 1288,
+                    "endColumn": 108,
+                    "endOffset": 1392
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1400,
-                        "endColumn": 102,
-                        "endOffset": 1498
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 1689,
-                    "endColumn": 118,
-                    "endOffset": 1803
+                    "startOffset": 1397,
+                    "endColumn": 108,
+                    "endOffset": 1501
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1503,
-                        "endColumn": 118,
-                        "endOffset": 1617
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 1808,
-                    "endLine": 23,
-                    "endColumn": 12,
-                    "endOffset": 1958
+                    "startOffset": 1506,
+                    "endColumn": 106,
+                    "endOffset": 1608
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 1801,
-                        "endLine": 20,
-                        "endColumn": 12,
-                        "endOffset": 1951
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1613,
+                    "endColumn": 102,
+                    "endOffset": 1711
+                },
+                "from": {
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 1963,
-                    "endLine": 25,
-                    "endColumn": 12,
-                    "endOffset": 2113
+                    "startOffset": 1716,
+                    "endColumn": 118,
+                    "endOffset": 1830
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 1956,
-                        "endLine": 22,
-                        "endColumn": 12,
-                        "endOffset": 2106
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 26,
+                    "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 2118,
-                    "endColumn": 104,
-                    "endOffset": 2218
+                    "startOffset": 1835,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1985
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 25,
-                        "startColumn": 4,
-                        "startOffset": 2295,
-                        "endColumn": 104,
-                        "endOffset": 2395
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 2223,
-                    "endColumn": 120,
-                    "endOffset": 2339
+                    "startOffset": 1990,
+                    "endLine": 28,
+                    "endColumn": 12,
+                    "endOffset": 2140
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 26,
-                        "startColumn": 4,
-                        "startOffset": 2400,
-                        "endColumn": 120,
-                        "endOffset": 2516
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 28,
-                    "startColumn": 4,
-                    "startOffset": 2344,
-                    "endColumn": 100,
-                    "endOffset": 2440
-                },
-                "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 27,
-                        "startColumn": 4,
-                        "startOffset": 2521,
-                        "endColumn": 100,
-                        "endOffset": 2617
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 2445,
-                    "endLine": 30,
-                    "endColumn": 12,
-                    "endOffset": 2587
+                    "startOffset": 2145,
+                    "endColumn": 104,
+                    "endOffset": 2245
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 30,
-                        "startColumn": 4,
-                        "startOffset": 2801,
-                        "endLine": 31,
-                        "endColumn": 12,
-                        "endOffset": 2943
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2250,
+                    "endColumn": 120,
+                    "endOffset": 2366
+                },
+                "from": {
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 2592,
-                    "endLine": 32,
-                    "endColumn": 12,
-                    "endOffset": 2728
+                    "startOffset": 2371,
+                    "endColumn": 100,
+                    "endOffset": 2467
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 32,
-                        "startColumn": 4,
-                        "startOffset": 2948,
-                        "endLine": 33,
-                        "endColumn": 12,
-                        "endOffset": 3084
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 33,
+                    "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 2733,
-                    "endColumn": 102,
-                    "endOffset": 2831
+                    "startOffset": 2472,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 2614
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 36,
-                        "startColumn": 4,
-                        "startOffset": 3273,
-                        "endColumn": 102,
-                        "endOffset": 3371
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 2836,
-                    "endColumn": 118,
-                    "endOffset": 2950
+                    "startOffset": 2619,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 2755
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 37,
-                        "startColumn": 4,
-                        "startOffset": 3376,
-                        "endColumn": 118,
-                        "endOffset": 3490
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 35,
-                    "startColumn": 4,
-                    "startOffset": 2955,
-                    "endColumn": 106,
-                    "endOffset": 3057
-                },
-                "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 38,
-                        "startColumn": 4,
-                        "startOffset": 3495,
-                        "endColumn": 106,
-                        "endOffset": 3597
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 3062,
+                    "startOffset": 2760,
                     "endColumn": 102,
-                    "endOffset": 3160
+                    "endOffset": 2858
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 39,
-                        "startColumn": 4,
-                        "startOffset": 3602,
-                        "endColumn": 102,
-                        "endOffset": 3700
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 37,
                     "startColumn": 4,
-                    "startOffset": 3165,
-                    "endLine": 38,
-                    "endColumn": 12,
-                    "endOffset": 3307
+                    "startOffset": 2863,
+                    "endColumn": 118,
+                    "endOffset": 2977
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 42,
-                        "startColumn": 4,
-                        "startOffset": 3884,
-                        "endLine": 43,
-                        "endColumn": 12,
-                        "endOffset": 4026
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2982,
+                    "endColumn": 106,
+                    "endOffset": 3084
+                },
+                "from": {
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 3312,
-                    "endLine": 40,
-                    "endColumn": 12,
-                    "endOffset": 3462
+                    "startOffset": 3089,
+                    "endColumn": 102,
+                    "endOffset": 3187
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 44,
-                        "startColumn": 4,
-                        "startOffset": 4031,
-                        "endLine": 45,
-                        "endColumn": 12,
-                        "endOffset": 4181
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 41,
+                    "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 3467,
-                    "endLine": 42,
+                    "startOffset": 3192,
+                    "endLine": 41,
                     "endColumn": 12,
-                    "endOffset": 3633
+                    "endOffset": 3334
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 46,
-                        "startColumn": 4,
-                        "startOffset": 4186,
-                        "endLine": 47,
-                        "endColumn": 12,
-                        "endOffset": 4352
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 43,
+                    "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 3638,
-                    "endLine": 44,
+                    "startOffset": 3339,
+                    "endLine": 43,
                     "endColumn": 12,
-                    "endOffset": 3782
+                    "endOffset": 3489
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 48,
-                        "startColumn": 4,
-                        "startOffset": 4357,
-                        "endLine": 49,
-                        "endColumn": 12,
-                        "endOffset": 4501
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 45,
+                    "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 3787,
-                    "endLine": 46,
+                    "startOffset": 3494,
+                    "endLine": 45,
                     "endColumn": 12,
-                    "endOffset": 3947
+                    "endOffset": 3660
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 50,
-                        "startColumn": 4,
-                        "startOffset": 4506,
-                        "endLine": 51,
-                        "endColumn": 12,
-                        "endOffset": 4666
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 47,
+                    "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 3952,
-                    "endLine": 48,
+                    "startOffset": 3665,
+                    "endLine": 47,
                     "endColumn": 12,
-                    "endOffset": 4104
+                    "endOffset": 3809
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 52,
-                        "startColumn": 4,
-                        "startOffset": 4671,
-                        "endLine": 53,
-                        "endColumn": 12,
-                        "endOffset": 4823
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 49,
+                    "startLine": 48,
                     "startColumn": 4,
-                    "startOffset": 4109,
-                    "endLine": 50,
+                    "startOffset": 3814,
+                    "endLine": 49,
                     "endColumn": 12,
-                    "endOffset": 4255
+                    "endOffset": 3974
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 54,
-                        "startColumn": 4,
-                        "startOffset": 4828,
-                        "endLine": 55,
-                        "endColumn": 12,
-                        "endOffset": 4974
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 51,
+                    "startLine": 50,
                     "startColumn": 4,
-                    "startOffset": 4260,
-                    "endColumn": 118,
-                    "endOffset": 4374
+                    "startOffset": 3979,
+                    "endLine": 51,
+                    "endColumn": 12,
+                    "endOffset": 4131
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 58,
-                        "startColumn": 4,
-                        "startOffset": 5163,
-                        "endColumn": 118,
-                        "endOffset": 5277
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 52,
                     "startColumn": 4,
-                    "startOffset": 4379,
+                    "startOffset": 4136,
                     "endLine": 53,
                     "endColumn": 12,
-                    "endOffset": 4523
+                    "endOffset": 4282
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 61,
-                        "startColumn": 4,
-                        "startOffset": 5461,
-                        "endLine": 62,
-                        "endColumn": 12,
-                        "endOffset": 5605
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 54,
                     "startColumn": 4,
-                    "startOffset": 4528,
-                    "endLine": 55,
-                    "endColumn": 12,
-                    "endOffset": 4672
+                    "startOffset": 4287,
+                    "endColumn": 118,
+                    "endOffset": 4401
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 63,
-                        "startColumn": 4,
-                        "startOffset": 5610,
-                        "endLine": 64,
-                        "endColumn": 12,
-                        "endOffset": 5754
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 56,
+                    "startLine": 55,
                     "startColumn": 4,
-                    "startOffset": 4677,
-                    "endColumn": 111,
-                    "endOffset": 4784
+                    "startOffset": 4406,
+                    "endLine": 56,
+                    "endColumn": 12,
+                    "endOffset": 4550
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 67,
-                        "startColumn": 4,
-                        "startOffset": 5943,
-                        "endColumn": 111,
-                        "endOffset": 6050
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 57,
                     "startColumn": 4,
-                    "startOffset": 4789,
-                    "endColumn": 146,
-                    "endOffset": 4931
+                    "startOffset": 4555,
+                    "endLine": 58,
+                    "endColumn": 12,
+                    "endOffset": 4699
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 70,
-                        "startColumn": 4,
-                        "startOffset": 6234,
-                        "endColumn": 146,
-                        "endOffset": 6376
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 58,
+                    "startLine": 59,
                     "startColumn": 4,
-                    "startOffset": 4936,
-                    "endLine": 59,
-                    "endColumn": 12,
-                    "endOffset": 5084
+                    "startOffset": 4704,
+                    "endColumn": 111,
+                    "endOffset": 4811
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 71,
-                        "startColumn": 4,
-                        "startOffset": 6381,
-                        "endLine": 72,
-                        "endColumn": 12,
-                        "endOffset": 6529
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 60,
                     "startColumn": 4,
-                    "startOffset": 5089,
-                    "endLine": 61,
-                    "endColumn": 12,
-                    "endOffset": 5231
+                    "startOffset": 4816,
+                    "endColumn": 146,
+                    "endOffset": 4958
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 73,
-                        "startColumn": 4,
-                        "startOffset": 6534,
-                        "endLine": 74,
-                        "endColumn": 12,
-                        "endOffset": 6676
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 62,
+                    "startLine": 61,
                     "startColumn": 4,
-                    "startOffset": 5236,
-                    "endColumn": 74,
-                    "endOffset": 5306
+                    "startOffset": 4963,
+                    "endLine": 62,
+                    "endColumn": 12,
+                    "endOffset": 5111
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 77,
-                        "startColumn": 4,
-                        "startOffset": 6860,
-                        "endColumn": 74,
-                        "endOffset": 6930
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 63,
                     "startColumn": 4,
-                    "startOffset": 5311,
-                    "endColumn": 88,
-                    "endOffset": 5395
+                    "startOffset": 5116,
+                    "endLine": 64,
+                    "endColumn": 12,
+                    "endOffset": 5258
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 78,
-                        "startColumn": 4,
-                        "startOffset": 6935,
-                        "endColumn": 88,
-                        "endOffset": 7019
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 64,
-                    "startColumn": 4,
-                    "startOffset": 5400,
-                    "endColumn": 86,
-                    "endOffset": 5482
-                },
-                "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 79,
-                        "startColumn": 4,
-                        "startOffset": 7024,
-                        "endColumn": 86,
-                        "endOffset": 7106
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 65,
                     "startColumn": 4,
-                    "startOffset": 5487,
-                    "endColumn": 100,
-                    "endOffset": 5583
+                    "startOffset": 5263,
+                    "endColumn": 74,
+                    "endOffset": 5333
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 80,
-                        "startColumn": 4,
-                        "startOffset": 7111,
-                        "endColumn": 100,
-                        "endOffset": 7207
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 66,
                     "startColumn": 4,
-                    "startOffset": 5588,
-                    "endLine": 109,
-                    "endColumn": 12,
-                    "endOffset": 8651
+                    "startOffset": 5338,
+                    "endColumn": 88,
+                    "endOffset": 5422
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 81,
-                        "startColumn": 4,
-                        "startOffset": 7212,
-                        "endLine": 124,
-                        "endColumn": 12,
-                        "endOffset": 10275
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 110,
+                    "startLine": 67,
                     "startColumn": 4,
-                    "startOffset": 8656,
-                    "endLine": 112,
-                    "endColumn": 12,
-                    "endOffset": 8837
+                    "startOffset": 5427,
+                    "endColumn": 86,
+                    "endOffset": 5509
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 125,
-                        "startColumn": 4,
-                        "startOffset": 10280,
-                        "endLine": 127,
-                        "endColumn": 12,
-                        "endOffset": 10461
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 5514,
+                    "endColumn": 100,
+                    "endOffset": 5610
+                },
+                "from": {
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 5615,
+                    "endLine": 112,
+                    "endColumn": 12,
+                    "endOffset": 8678
+                },
+                "from": {
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 113,
                     "startColumn": 4,
-                    "startOffset": 8842,
-                    "endLine": 156,
+                    "startOffset": 8683,
+                    "endLine": 115,
                     "endColumn": 12,
-                    "endOffset": 11917
+                    "endOffset": 8864
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 128,
-                        "startColumn": 4,
-                        "startOffset": 10466,
-                        "endLine": 171,
-                        "endColumn": 12,
-                        "endOffset": 13541
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 157,
+                    "startLine": 116,
                     "startColumn": 4,
-                    "startOffset": 11922,
+                    "startOffset": 8869,
                     "endLine": 159,
                     "endColumn": 12,
-                    "endOffset": 12115
+                    "endOffset": 11944
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 172,
-                        "startColumn": 4,
-                        "startOffset": 13546,
-                        "endLine": 174,
-                        "endColumn": 12,
-                        "endOffset": 13739
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 160,
                     "startColumn": 4,
-                    "startOffset": 12120,
-                    "endLine": 161,
+                    "startOffset": 11949,
+                    "endLine": 162,
                     "endColumn": 12,
-                    "endOffset": 12238
+                    "endOffset": 12142
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 177,
-                        "startColumn": 4,
-                        "startOffset": 13923,
-                        "endLine": 178,
-                        "endColumn": 12,
-                        "endOffset": 14041
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 162,
+                    "startLine": 163,
                     "startColumn": 4,
-                    "startOffset": 12243,
-                    "endLine": 163,
+                    "startOffset": 12147,
+                    "endLine": 164,
                     "endColumn": 12,
-                    "endOffset": 12361
+                    "endOffset": 12265
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 179,
-                        "startColumn": 4,
-                        "startOffset": 14046,
-                        "endLine": 180,
-                        "endColumn": 12,
-                        "endOffset": 14164
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 164,
+                    "startLine": 165,
                     "startColumn": 4,
-                    "startOffset": 12366,
-                    "endLine": 165,
+                    "startOffset": 12270,
+                    "endLine": 166,
                     "endColumn": 12,
-                    "endOffset": 12474
+                    "endOffset": 12388
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 181,
-                        "startColumn": 4,
-                        "startOffset": 14169,
-                        "endLine": 182,
-                        "endColumn": 12,
-                        "endOffset": 14277
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 166,
+                    "startLine": 167,
                     "startColumn": 4,
-                    "startOffset": 12479,
+                    "startOffset": 12393,
                     "endLine": 168,
                     "endColumn": 12,
-                    "endOffset": 12657
+                    "endOffset": 12501
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 183,
-                        "startColumn": 4,
-                        "startOffset": 14282,
-                        "endLine": 185,
-                        "endColumn": 12,
-                        "endOffset": 14460
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 169,
                     "startColumn": 4,
-                    "startOffset": 12662,
-                    "endLine": 170,
+                    "startOffset": 12506,
+                    "endLine": 171,
                     "endColumn": 12,
-                    "endOffset": 12788
+                    "endOffset": 12684
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 186,
-                        "startColumn": 4,
-                        "startOffset": 14465,
-                        "endLine": 187,
-                        "endColumn": 12,
-                        "endOffset": 14591
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 171,
+                    "startLine": 172,
                     "startColumn": 4,
-                    "startOffset": 12793,
+                    "startOffset": 12689,
                     "endLine": 173,
                     "endColumn": 12,
-                    "endOffset": 12989
+                    "endOffset": 12815
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 188,
-                        "startColumn": 4,
-                        "startOffset": 14596,
-                        "endLine": 190,
-                        "endColumn": 12,
-                        "endOffset": 14792
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 174,
                     "startColumn": 4,
-                    "startOffset": 12994,
-                    "endColumn": 88,
-                    "endOffset": 13078
+                    "startOffset": 12820,
+                    "endLine": 176,
+                    "endColumn": 12,
+                    "endOffset": 13016
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 191,
-                        "startColumn": 4,
-                        "startOffset": 14797,
-                        "endColumn": 88,
-                        "endOffset": 14881
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 175,
-                    "startColumn": 4,
-                    "startOffset": 13083,
-                    "endColumn": 110,
-                    "endOffset": 13189
-                },
-                "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 192,
-                        "startColumn": 4,
-                        "startOffset": 14886,
-                        "endColumn": 110,
-                        "endOffset": 14992
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 176,
-                    "startColumn": 4,
-                    "startOffset": 13194,
-                    "endColumn": 126,
-                    "endOffset": 13316
-                },
-                "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 193,
-                        "startColumn": 4,
-                        "startOffset": 14997,
-                        "endColumn": 126,
-                        "endOffset": 15119
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 177,
                     "startColumn": 4,
-                    "startOffset": 13321,
-                    "endColumn": 100,
-                    "endOffset": 13417
+                    "startOffset": 13021,
+                    "endColumn": 88,
+                    "endOffset": 13105
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 194,
-                        "startColumn": 4,
-                        "startOffset": 15124,
-                        "endColumn": 100,
-                        "endOffset": 15220
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 178,
                     "startColumn": 4,
-                    "startOffset": 13422,
-                    "endColumn": 94,
-                    "endOffset": 13512
+                    "startOffset": 13110,
+                    "endColumn": 110,
+                    "endOffset": 13216
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 195,
-                        "startColumn": 4,
-                        "startOffset": 15225,
-                        "endColumn": 94,
-                        "endOffset": 15315
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 179,
                     "startColumn": 4,
-                    "startOffset": 13517,
-                    "endColumn": 122,
-                    "endOffset": 13635
+                    "startOffset": 13221,
+                    "endColumn": 126,
+                    "endOffset": 13343
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 196,
-                        "startColumn": 4,
-                        "startOffset": 15320,
-                        "endColumn": 122,
-                        "endOffset": 15438
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 180,
                     "startColumn": 4,
-                    "startOffset": 13640,
-                    "endColumn": 128,
-                    "endOffset": 13764
+                    "startOffset": 13348,
+                    "endColumn": 100,
+                    "endOffset": 13444
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 197,
-                        "startColumn": 4,
-                        "startOffset": 15443,
-                        "endColumn": 128,
-                        "endOffset": 15567
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 181,
                     "startColumn": 4,
-                    "startOffset": 13769,
-                    "endColumn": 116,
-                    "endOffset": 13881
+                    "startOffset": 13449,
+                    "endColumn": 94,
+                    "endOffset": 13539
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 198,
-                        "startColumn": 4,
-                        "startOffset": 15572,
-                        "endColumn": 116,
-                        "endOffset": 15684
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 182,
                     "startColumn": 4,
-                    "startOffset": 13886,
-                    "endLine": 184,
-                    "endColumn": 12,
-                    "endOffset": 14058
+                    "startOffset": 13544,
+                    "endColumn": 122,
+                    "endOffset": 13662
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 199,
-                        "startColumn": 4,
-                        "startOffset": 15689,
-                        "endLine": 201,
-                        "endColumn": 12,
-                        "endOffset": 15861
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 13667,
+                    "endColumn": 128,
+                    "endOffset": 13791
+                },
+                "from": {
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 13796,
+                    "endColumn": 116,
+                    "endOffset": 13908
+                },
+                "from": {
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 185,
                     "startColumn": 4,
-                    "startOffset": 14063,
-                    "endColumn": 98,
-                    "endOffset": 14157
-                },
-                "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 202,
-                        "startColumn": 4,
-                        "startOffset": 15866,
-                        "endColumn": 98,
-                        "endOffset": 15960
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 186,
-                    "startColumn": 4,
-                    "startOffset": 14162,
+                    "startOffset": 13913,
                     "endLine": 187,
                     "endColumn": 12,
-                    "endOffset": 14292
+                    "endOffset": 14085
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 203,
-                        "startColumn": 4,
-                        "startOffset": 15965,
-                        "endLine": 204,
-                        "endColumn": 12,
-                        "endOffset": 16095
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 188,
                     "startColumn": 4,
-                    "startOffset": 14297,
-                    "endLine": 189,
-                    "endColumn": 12,
-                    "endOffset": 14435
+                    "startOffset": 14090,
+                    "endColumn": 98,
+                    "endOffset": 14184
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 205,
-                        "startColumn": 4,
-                        "startOffset": 16100,
-                        "endLine": 206,
-                        "endColumn": 12,
-                        "endOffset": 16238
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 190,
+                    "startLine": 189,
                     "startColumn": 4,
-                    "startOffset": 14440,
-                    "endLine": 191,
+                    "startOffset": 14189,
+                    "endLine": 190,
                     "endColumn": 12,
-                    "endOffset": 14570
+                    "endOffset": 14319
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 207,
-                        "startColumn": 4,
-                        "startOffset": 16243,
-                        "endLine": 208,
-                        "endColumn": 12,
-                        "endOffset": 16373
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 192,
+                    "startLine": 191,
                     "startColumn": 4,
-                    "startOffset": 14575,
-                    "endLine": 193,
+                    "startOffset": 14324,
+                    "endLine": 192,
                     "endColumn": 12,
-                    "endOffset": 14689
+                    "endOffset": 14462
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 209,
-                        "startColumn": 4,
-                        "startOffset": 16378,
-                        "endLine": 210,
-                        "endColumn": 12,
-                        "endOffset": 16492
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 194,
+                    "startLine": 193,
                     "startColumn": 4,
-                    "startOffset": 14694,
-                    "endLine": 197,
+                    "startOffset": 14467,
+                    "endLine": 194,
                     "endColumn": 12,
-                    "endOffset": 14890
+                    "endOffset": 14597
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 211,
-                        "startColumn": 4,
-                        "startOffset": 16497,
-                        "endLine": 214,
-                        "endColumn": 12,
-                        "endOffset": 16693
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 198,
+                    "startLine": 195,
                     "startColumn": 4,
-                    "startOffset": 14895,
-                    "endLine": 199,
+                    "startOffset": 14602,
+                    "endLine": 196,
                     "endColumn": 12,
-                    "endOffset": 15009
+                    "endOffset": 14716
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 215,
-                        "startColumn": 4,
-                        "startOffset": 16698,
-                        "endLine": 216,
-                        "endColumn": 12,
-                        "endOffset": 16812
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 200,
+                    "startLine": 197,
                     "startColumn": 4,
-                    "startOffset": 15014,
-                    "endColumn": 92,
-                    "endOffset": 15102
+                    "startOffset": 14721,
+                    "endLine": 200,
+                    "endColumn": 12,
+                    "endOffset": 14917
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 217,
-                        "startColumn": 4,
-                        "startOffset": 16817,
-                        "endColumn": 92,
-                        "endOffset": 16905
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 201,
                     "startColumn": 4,
-                    "startOffset": 15107,
-                    "endColumn": 110,
-                    "endOffset": 15213
+                    "startOffset": 14922,
+                    "endLine": 202,
+                    "endColumn": 12,
+                    "endOffset": 15036
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 218,
-                        "startColumn": 4,
-                        "startOffset": 16910,
-                        "endColumn": 110,
-                        "endOffset": 17016
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 202,
-                    "startColumn": 4,
-                    "startOffset": 15218,
-                    "endColumn": 55,
-                    "endOffset": 15269
-                },
-                "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 219,
-                        "startColumn": 4,
-                        "startOffset": 17021,
-                        "endColumn": 55,
-                        "endOffset": 17072
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 203,
                     "startColumn": 4,
-                    "startOffset": 15274,
-                    "endLine": 204,
-                    "endColumn": 12,
-                    "endOffset": 15376
+                    "startOffset": 15041,
+                    "endColumn": 92,
+                    "endOffset": 15129
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 220,
-                        "startColumn": 4,
-                        "startOffset": 17077,
-                        "endLine": 221,
-                        "endColumn": 12,
-                        "endOffset": 17179
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 15134,
+                    "endColumn": 110,
+                    "endOffset": 15240
+                },
+                "from": {
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 205,
                     "startColumn": 4,
-                    "startOffset": 15381,
-                    "endLine": 208,
-                    "endColumn": 12,
-                    "endOffset": 15571
+                    "startOffset": 15245,
+                    "endColumn": 55,
+                    "endOffset": 15296
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 222,
-                        "startColumn": 4,
-                        "startOffset": 17184,
-                        "endLine": 225,
-                        "endColumn": 12,
-                        "endOffset": 17374
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 209,
+                    "startLine": 206,
                     "startColumn": 4,
-                    "startOffset": 15576,
-                    "endLine": 210,
+                    "startOffset": 15301,
+                    "endLine": 207,
                     "endColumn": 12,
-                    "endOffset": 15682
+                    "endOffset": 15403
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 226,
-                        "startColumn": 4,
-                        "startOffset": 17379,
-                        "endLine": 227,
-                        "endColumn": 12,
-                        "endOffset": 17485
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 211,
+                    "startLine": 208,
                     "startColumn": 4,
-                    "startOffset": 15687,
-                    "endLine": 212,
+                    "startOffset": 15408,
+                    "endLine": 211,
                     "endColumn": 12,
-                    "endOffset": 15815
+                    "endOffset": 15598
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 228,
-                        "startColumn": 4,
-                        "startOffset": 17490,
-                        "endLine": 229,
-                        "endColumn": 12,
-                        "endOffset": 17618
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 213,
+                    "startLine": 212,
                     "startColumn": 4,
-                    "startOffset": 15820,
-                    "endColumn": 94,
-                    "endOffset": 15910
+                    "startOffset": 15603,
+                    "endLine": 213,
+                    "endColumn": 12,
+                    "endOffset": 15709
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 230,
-                        "startColumn": 4,
-                        "startOffset": 17623,
-                        "endColumn": 94,
-                        "endOffset": 17713
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 214,
                     "startColumn": 4,
-                    "startOffset": 15915,
-                    "endColumn": 90,
-                    "endOffset": 16001
+                    "startOffset": 15714,
+                    "endLine": 215,
+                    "endColumn": 12,
+                    "endOffset": 15842
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 231,
-                        "startColumn": 4,
-                        "startOffset": 17718,
-                        "endColumn": 90,
-                        "endOffset": 17804
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 215,
-                    "startColumn": 4,
-                    "startOffset": 16006,
-                    "endColumn": 90,
-                    "endOffset": 16092
-                },
-                "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 232,
-                        "startColumn": 4,
-                        "startOffset": 17809,
-                        "endColumn": 90,
-                        "endOffset": 17895
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 216,
                     "startColumn": 4,
-                    "startOffset": 16097,
-                    "endColumn": 116,
-                    "endOffset": 16209
+                    "startOffset": 15847,
+                    "endColumn": 94,
+                    "endOffset": 15937
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 233,
-                        "startColumn": 4,
-                        "startOffset": 17900,
-                        "endColumn": 116,
-                        "endOffset": 18012
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 217,
                     "startColumn": 4,
-                    "startOffset": 16214,
-                    "endLine": 218,
-                    "endColumn": 12,
-                    "endOffset": 16348
+                    "startOffset": 15942,
+                    "endColumn": 90,
+                    "endOffset": 16028
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 234,
-                        "startColumn": 4,
-                        "startOffset": 18017,
-                        "endLine": 235,
-                        "endColumn": 12,
-                        "endOffset": 18151
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 218,
+                    "startColumn": 4,
+                    "startOffset": 16033,
+                    "endColumn": 90,
+                    "endOffset": 16119
+                },
+                "from": {
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 219,
                     "startColumn": 4,
-                    "startOffset": 16353,
-                    "endLine": 225,
-                    "endColumn": 12,
-                    "endOffset": 16701
+                    "startOffset": 16124,
+                    "endColumn": 116,
+                    "endOffset": 16236
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 238,
-                        "startColumn": 4,
-                        "startOffset": 18335,
-                        "endLine": 244,
-                        "endColumn": 12,
-                        "endOffset": 18683
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 226,
+                    "startLine": 220,
                     "startColumn": 4,
-                    "startOffset": 16706,
-                    "endLine": 232,
+                    "startOffset": 16241,
+                    "endLine": 221,
                     "endColumn": 12,
-                    "endOffset": 17066
+                    "endOffset": 16375
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 245,
-                        "startColumn": 4,
-                        "startOffset": 18688,
-                        "endLine": 251,
-                        "endColumn": 12,
-                        "endOffset": 19048
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 233,
+                    "startLine": 222,
                     "startColumn": 4,
-                    "startOffset": 17071,
-                    "endLine": 242,
+                    "startOffset": 16380,
+                    "endLine": 228,
                     "endColumn": 12,
-                    "endOffset": 17746
+                    "endOffset": 16728
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 252,
-                        "startColumn": 4,
-                        "startOffset": 19053,
-                        "endLine": 261,
-                        "endColumn": 12,
-                        "endOffset": 19728
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 243,
+                    "startLine": 229,
                     "startColumn": 4,
-                    "startOffset": 17751,
+                    "startOffset": 16733,
+                    "endLine": 235,
+                    "endColumn": 12,
+                    "endOffset": 17093
+                },
+                "from": {
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 236,
+                    "startColumn": 4,
+                    "startOffset": 17098,
+                    "endLine": 245,
+                    "endColumn": 12,
+                    "endOffset": 17773
+                },
+                "from": {
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 246,
+                    "startColumn": 4,
+                    "startOffset": 17778,
                     "endColumn": 56,
-                    "endOffset": 17803
+                    "endOffset": 17830
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 262,
-                        "startColumn": 4,
-                        "startOffset": 19733,
-                        "endColumn": 56,
-                        "endOffset": 19785
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 244,
+                    "startLine": 247,
                     "startColumn": 4,
-                    "startOffset": 17808,
+                    "startOffset": 17835,
                     "endColumn": 57,
-                    "endOffset": 17861
+                    "endOffset": 17888
                 },
                 "from": {
-                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 263,
-                        "startColumn": 4,
-                        "startOffset": 19790,
-                        "endColumn": 57,
-                        "endOffset": 19843
-                    }
+                    "file": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml"
                 }
             }
         ]

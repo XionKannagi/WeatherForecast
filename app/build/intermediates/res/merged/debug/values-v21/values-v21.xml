@@ -2,8 +2,11 @@
 <resources>
     <dimen name="design_navigation_padding_top_default">24dp</dimen>
     <style name="AppTheme.NoActionBar">
+
+        <!--
         <item name="windowActionBar">false</item>
-        <item name="windowNoTitle">true</item>
+        <item name="windowNoTitle">false</item>
+        -->
         <item name="android:windowDrawsSystemBarBackgrounds">true</item>
         <item name="android:statusBarColor">@android:color/transparent</item>
     </style>

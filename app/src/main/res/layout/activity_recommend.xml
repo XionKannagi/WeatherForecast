@@ -6,14 +6,9 @@
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
     android:orientation="vertical"
-    tools:context="com.zack.weatherforecast.RecommendActivity">
+    tools:context="com.zack.weatherforecast.RecommendActivity"
+    android:background="@color/colorPrimaryDark">
 
-
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="今日の服装"
-        android:textSize="36sp" />
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -30,44 +25,51 @@
                 android:layout_height="match_parent"
                 android:orientation="vertical">
 
+                <TextView
+                    android:id="@+id/TextViewWeather"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="24sp"
+                    tools:text="天気："
+                    android:textColor="#ffffff" />
+
 
                 <TextView
                     android:id="@+id/TextViewMinTemp"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:textSize="24sp"
-                    tools:text="最低体感気温：" />
+                    tools:text="コーディネート"
+                    android:textColor="#ffffff" />
 
-                <TextView
-                    android:id="@+id/TextViewWeather"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:textSize="24sp"
-                    tools:text="天気：" />
 
                 <ImageView
                     android:id="@+id/imageViewRecommend"
-                    android:layout_width="128dp"
-                    android:layout_height="128dp"
-                    android:layout_gravity="center" />
+                    android:layout_width="match_parent"
+                    android:layout_height="250dp"
+                    android:layout_gravity="center"
+                    android:layout_marginRight="16dp"
+                    android:layout_marginLeft="16dp" />
 
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:textSize="24sp"
-                    android:text="おすすめの服装:" />
+                    android:text="おすすめの服装:"
+                    android:textColor="#ffffff" />
 
                 <TextView
                     android:id="@+id/TextViewRecommend"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:textSize="24sp" />
+                    android:textSize="24sp"
+                    android:textColor="#ffffff" />
 
             </LinearLayout>
 
         </ScrollView>
 
-
+<!--
         <FrameLayout
             android:layout_width="match_parent"
             android:layout_height="0dp"
@@ -82,7 +84,7 @@
                 android:src="@drawable/ic_cloud_white_24dp" />
 
         </FrameLayout>
-
+-->
 
     </LinearLayout>
 

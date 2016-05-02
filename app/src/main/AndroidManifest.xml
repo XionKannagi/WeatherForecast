@@ -2,6 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.zack.weatherforecast">
 
+    <!--ネットワーク使用許可-->
     <uses-permission android:name="android.permission.INTERNET" />
     <!-- 位置情報 GPSから -->
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />

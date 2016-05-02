@@ -45,9 +45,11 @@
 
                 <ImageView
                     android:id="@+id/imageViewRecommend"
-                    android:layout_width="128dp"
-                    android:layout_height="128dp"
-                    android:layout_gravity="center" />
+                    android:layout_width="match_parent"
+                    android:layout_height="250dp"
+                    android:layout_gravity="center"
+                    android:layout_marginRight="16dp"
+                    android:layout_marginLeft="16dp" />
 
                 <TextView
                     android:layout_width="match_parent"

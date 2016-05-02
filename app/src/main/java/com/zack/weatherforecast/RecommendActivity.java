@@ -48,6 +48,17 @@ public class RecommendActivity extends AppCompatActivity {
                     "帽子はできれば耳までかぶるニット帽の方がいいでしょう。"
     };
 
+    int[] recommendImages = {
+            R.drawable.outfit01,
+            R.drawable.outfit02,
+            R.drawable.outfit03,
+            R.drawable.outfit04,
+            R.drawable.outfit05,
+            R.drawable.outfit06,
+            R.drawable.outfit07,
+            R.drawable.outfit08
+    };
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -71,20 +82,28 @@ public class RecommendActivity extends AppCompatActivity {
 
         if (maxTmp >= 30) {
             recommendText.setText(recommendStr[0]);
+            recommendImage.setImageResource(recommendImages[0]);
         } else if (maxTmp >= 26) {
             recommendText.setText(recommendStr[1]);
+            recommendImage.setImageResource(recommendImages[1]);
         } else if (maxTmp >= 21) {
             recommendText.setText(recommendStr[2]);
+            recommendImage.setImageResource(recommendImages[2]);
         } else if (maxTmp >= 16) {
             recommendText.setText(recommendStr[3]);
+            recommendImage.setImageResource(recommendImages[3]);
         } else if (maxTmp >= 12) {
             recommendText.setText(recommendStr[4]);
+            recommendImage.setImageResource(recommendImages[4]);
         } else if (maxTmp >= 7) {
             recommendText.setText(recommendStr[5]);
+            recommendImage.setImageResource(recommendImages[5]);
         } else if (maxTmp >= 0) {
             recommendText.setText(recommendStr[6]);
+            recommendImage.setImageResource(recommendImages[6]);
         } else if (maxTmp < 0 && maxTmp != -273) {
             recommendText.setText(recommendStr[7]);
+            recommendImage.setImageResource(recommendImages[7]);
         } else {
             recommendText.setText("※気温の値が不正です．");
         }

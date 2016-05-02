@@ -62,6 +62,8 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        Toast.makeText(this, "onCeate", Toast.LENGTH_LONG).show();
+
 
         mHandler = new Handler();
 

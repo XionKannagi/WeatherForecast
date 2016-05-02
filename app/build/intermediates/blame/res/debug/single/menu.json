@@ -2,5 +2,9 @@
     {
         "merged": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
         "source": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/kokushiseiya/Desktop/WeatherForecast/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/kokushiseiya/Desktop/WeatherForecast/app/src/main/res/menu/menu_main.xml"
     }
 ]

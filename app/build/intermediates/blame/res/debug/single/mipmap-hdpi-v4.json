@@ -2,5 +2,9 @@
     {
         "merged": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
         "source": "/Users/togane/AndroidStudioProjects/WeatherForecast/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kokushiseiya/Desktop/WeatherForecast/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/Users/kokushiseiya/Desktop/WeatherForecast/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     }
 ]
